@@ -9,7 +9,7 @@ const PerfilUser = () =>{
         <>
         <div>
             <img src="" />
-            <p>Nome: Paula Rabelo de Oliveira</p>
+            <p>Nome: </p>
             <p>Aniversário: </p>
             <p>Data de criação:</p>
         </div>
